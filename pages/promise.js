@@ -1,3 +1,0 @@
-
-
-var hi = new Promise()
